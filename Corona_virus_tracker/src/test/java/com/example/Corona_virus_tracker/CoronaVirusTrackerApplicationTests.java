@@ -10,4 +10,5 @@ class CoronaVirusTrackerApplicationTests {
 	void contextLoads() {
 	}
 
+	
 }

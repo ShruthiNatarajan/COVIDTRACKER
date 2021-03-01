@@ -25,5 +25,4 @@ public class HomeController {
         model.addAttribute("totalReportedCases", totalReportedCases);
         return "home";
     }
-
 }
